@@ -1,0 +1,113 @@
+.NavBorder {
+    background-color: #06060d;
+}
+
+
+
+.foo :hover {
+    color: #073430 !important;
+}
+
+body {
+    background: #041a21;
+    backdrop-filter: blur(50px);
+}
+
+
+
+.CardColor {
+    background-color: #041a21;
+    color: white;
+}
+
+
+.BottonColor {
+    background: #0FAE96;
+    color: white;
+    border-radius: 4px;
+    width: 168px;
+    height: 48px;
+    border: none;
+}
+
+
+.TextColor {
+    color: white;
+}
+
+
+
+
+.StylCard {
+
+    /* Anon_card */
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 32px 16px;
+    gap: 16px;
+
+    width: 412px;
+    height: 260px;
+
+    background: rgba(255, 255, 255, 0.02);
+    border-radius: 18px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+
+
+
+
+    height: 260px;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    border-radius: 18px;
+    padding: 32px 16px 32px 16px;
+    color: white;
+
+}
+
+
+
+
+
+.o {
+    height: 48px;
+    width: 44px !important;
+    border-radius: 0px;
+
+}
+
+
+.divColor {
+    box-sizing: border-box;
+    width: 50%;
+    background: #0a151a;
+    border-radius: 8px;
+    margin-left: 30%;
+}
+
+
+
+.InputScc{
+    margin-top: 20px;
+    width: 100%;
+    box-sizing: border-box;
+background: rgba(255, 255, 255, 0.02);
+border: 1px solid rgba(255, 255, 255, 0.05);
+border-radius: 4px;
+}
